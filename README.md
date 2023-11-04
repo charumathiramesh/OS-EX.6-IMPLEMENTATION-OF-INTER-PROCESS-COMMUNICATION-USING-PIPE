@@ -36,6 +36,7 @@ int main()
 
 ## OUTPUT:
 
+![Screenshot 2023-11-04 141947](https://github.com/charumathiramesh/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/120204455/aa756409-8125-4250-9984-e83c67af419c)
 
 ## RESULT:
 Thus basic UNIX commands are studied and executed.
